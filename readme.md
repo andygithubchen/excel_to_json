@@ -9,7 +9,7 @@ excel_to_json only has 2 parameters:
  - `--fields` -- The fields to extract
 
 ### Example
-excel_to_json --file test.xlsx --fields id,name,timestamp
+`excel_to_json --file test.xlsx --fields id,name,timestamp`
 
 
 ## Want to help?
