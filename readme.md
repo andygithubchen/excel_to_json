@@ -1,7 +1,9 @@
 # Excel to JSON converter
+
 A simple tool that helps you turn excel files into json files. When done you'll receive a `.json` file with indented json.
 
 ## Usage
+
 excel_to_json only has 2 parameters:
 - `--file` -- The excel file to open
 - `--fields` -- The fields to extract
